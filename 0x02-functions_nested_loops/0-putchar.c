@@ -2,8 +2,8 @@
 
 /**
  * main - print _putchar
- * is written by Trustwords
- * Return: 0
+ * is written by trustwords
+ * Return:0
  */
 
 int main(void)
